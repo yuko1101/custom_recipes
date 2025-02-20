@@ -1,0 +1,17 @@
+{
+  "type": "mekanism:nucleosynthesizing",
+  "chemical_input": {
+    "amount": 5,
+    "chemical": "mekanism:antimatter"
+  },
+  "duration": 500,
+  "item_input": {
+    "count": 1,
+    "item": "minecraft:white_concrete_powder"
+  },
+  "output": {
+    "count": 1,
+    "id": "mekanism:block_thin"
+  },
+  "per_tick_usage": false
+}

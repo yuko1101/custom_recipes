@@ -1,0 +1,22 @@
+{
+  "type": "oritech:particle_collision",
+  "fluidInputAmount": 0,
+  "fluidInputVariant": "minecraft:empty",
+  "fluidOutputAmount": 0,
+  "fluidOutputVariant": "minecraft:empty",
+  "ingredients": [
+    {
+      "item": "ae2:singularity"
+    },
+    {
+      "item": "ae2:ender_dust"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "minecraft:ender_pearl"
+    }
+  ],
+  "time": 1600
+}

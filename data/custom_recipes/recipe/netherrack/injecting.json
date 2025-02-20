@@ -1,0 +1,16 @@
+{
+  "type": "mekanism:injecting",
+  "chemical_input": {
+    "amount": 1,
+    "chemical": "minecraft:lava"
+  },
+  "item_input": {
+    "count": 1,
+    "id": "minecraft:stone"
+  },
+  "output": {
+    "count": 1,
+    "id": "minecraft:netherrack"
+  },
+  "per_tick_usage": true
+}

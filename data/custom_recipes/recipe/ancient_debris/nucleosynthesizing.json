@@ -1,0 +1,17 @@
+{
+  "type": "mekanism:nucleosynthesizing",
+  "chemical_input": {
+    "amount": 20,
+    "chemical": "mekanism:antimatter"
+  },
+  "duration": 500,
+  "item_input": {
+    "count": 1,
+    "item": "minecraft:polished_basalt"
+  },
+  "output": {
+    "count": 1,
+    "id": "minecraft:ancient_debris"
+  },
+  "per_tick_usage": false
+}

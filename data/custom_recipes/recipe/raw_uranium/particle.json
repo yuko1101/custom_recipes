@@ -1,0 +1,22 @@
+{
+  "type": "oritech:particle_collision",
+  "fluidInputAmount": 0,
+  "fluidInputVariant": "minecraft:empty",
+  "fluidOutputAmount": 0,
+  "fluidOutputVariant": "minecraft:empty",
+  "ingredients": [
+    {
+      "tag": "c:dusts/uranium"
+    },
+    {
+      "item": "mekanism:dust_refined_obsidian"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "id": "mekanism:raw_uranium"
+    }
+  ],
+  "time": 1000
+}
