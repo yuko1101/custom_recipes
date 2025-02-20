@@ -1,0 +1,17 @@
+{
+  "type": "mekanism:nucleosynthesizing",
+  "chemical_input": {
+    "amount": 1,
+    "chemical": "mekanism:antimatter"
+  },
+  "duration": 500,
+  "item_input": {
+    "count": 1,
+    "item": "mekanism:block_charcoal"
+  },
+  "output": {
+    "count": 1,
+    "id": "minecraft:coal_block"
+  },
+  "per_tick_usage": false
+}

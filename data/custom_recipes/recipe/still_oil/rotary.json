@@ -1,0 +1,19 @@
+{
+  "type": "mekanism:rotary",
+  "chemical_input": {
+    "amount": 2,
+    "chemical": "mekanism:carbon"
+  },
+  "chemical_output": {
+    "amount": 2,
+    "id": "mekanism:carbon"
+  },
+  "fluid_input": {
+    "amount": 1,
+    "tag": "oritech:still_oil"
+  },
+  "fluid_output": {
+    "amount": 1,
+    "id": "oritech:still_oil"
+  }
+}

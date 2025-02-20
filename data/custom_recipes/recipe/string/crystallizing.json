@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:crystallizing",
+  "input": {
+    "amount": 100,
+    "chemical": "oritech:still_oil"
+  },
+  "output": {
+    "count": 1,
+    "id": "minecraft:string"
+  }
+}
