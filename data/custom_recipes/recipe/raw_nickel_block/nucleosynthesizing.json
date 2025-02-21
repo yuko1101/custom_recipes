@@ -1,17 +1,17 @@
 {
   "type": "mekanism:nucleosynthesizing",
   "chemical_input": {
-    "amount": 1,
+    "amount": 4,
     "chemical": "mekanism:antimatter"
   },
   "duration": 500,
   "item_input": {
     "count": 1,
-    "item": "minecraft:brown_wool"
+    "item": "minecraft:yellow_concrete_powder"
   },
   "output": {
     "count": 1,
-    "id": "minecraft:copper_block"
+    "id": "oritech:raw_nickle_block"
   },
   "per_tick_usage": false
 }

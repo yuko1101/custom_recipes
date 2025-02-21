@@ -1,17 +1,17 @@
 {
   "type": "mekanism:nucleosynthesizing",
   "chemical_input": {
-    "amount": 10,
+    "amount": 8,
     "chemical": "mekanism:antimatter"
   },
   "duration": 500,
   "item_input": {
     "count": 1,
-    "item": "minecraft:light_gray_concrete_powder"
+    "item": "minecraft:orange_wool"
   },
   "output": {
     "count": 1,
-    "id": "mekanism:block_osmium"
+    "id": "minecraft:raw_gold_block"
   },
   "per_tick_usage": false
 }
