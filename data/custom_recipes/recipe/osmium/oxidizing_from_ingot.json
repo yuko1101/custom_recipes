@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:oxidizing",
+  "input": {
+    "count": 1,
+    "item": "mekanism:ingot_osmium"
+  },
+  "output": {
+    "amount": 200,
+    "id": "mekanism:osmium"
+  }
+}
