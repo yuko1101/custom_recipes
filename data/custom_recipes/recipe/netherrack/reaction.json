@@ -1,0 +1,23 @@
+{
+  "type": "advanced_ae:reaction",
+  "input_energy": 10000,
+  "input_fluid": {
+    "amount": 100,
+    "ingredient": {
+      "fluid": "minecraft:lava"
+    }
+  },
+  "input_items": [
+    {
+      "amount": 4,
+      "ingredient": {
+        "item": "minecraft:cobblestone"
+      }
+    }
+  ],
+  "output": {
+    "#": 4,
+    "#t": "ae2:i",
+    "id": "minecraft:netherrack"
+  }
+}

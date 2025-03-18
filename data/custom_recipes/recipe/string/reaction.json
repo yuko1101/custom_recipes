@@ -1,0 +1,16 @@
+{
+  "type": "advanced_ae:reaction",
+  "input_energy": 100,
+  "input_fluid": {
+    "amount": 100,
+    "ingredient": {
+      "fluid": "oritech:still_oil"
+    }
+  },
+  "input_items": [],
+  "output": {
+    "#": 1,
+    "#t": "ae2:i",
+    "id": "minecraft:string"
+  }
+}

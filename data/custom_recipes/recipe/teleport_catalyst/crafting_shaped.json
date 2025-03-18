@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " CS",
+    "CTC",
+    "SC "
+  ],
+  "key": {
+    "C": {
+      "item": "deeperdarker:warden_carapace"
+    },
+    "S": {
+      "item": "minecraft:echo_shard"
+    },
+    "T": {
+      "item": "mekanism:teleportation_core"
+    }
+  },
+  "result": {
+    "id": "the_afterdark:teleport_catalyst"
+  }
+}

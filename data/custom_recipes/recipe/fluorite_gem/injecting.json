@@ -6,7 +6,7 @@
   },
   "item_input": {
     "count": 1,
-    "id": "minecraft:calcite"
+    "item": "minecraft:calcite"
   },
   "output": {
     "count": 1,
